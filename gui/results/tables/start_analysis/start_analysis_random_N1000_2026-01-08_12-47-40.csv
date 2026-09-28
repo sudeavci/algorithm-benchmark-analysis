@@ -1,0 +1,6 @@
+Algorithm,Time (ms),Memory (KB)
+Quick Sort,1.1662,8.74
+Merge Sort,2.0993,15.79
+Heap Sort,2.3453,8.04
+Shell Sort,1.4846,8.0
+Radix Sort,1.1555,24.65

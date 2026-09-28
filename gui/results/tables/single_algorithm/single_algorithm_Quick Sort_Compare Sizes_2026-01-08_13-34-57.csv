@@ -1,0 +1,4 @@
+Algorithm,Data Pattern,Data Size (N),Time (ms)
+Quick Sort,random,1000,1.166
+Quick Sort,random,10000,17.160
+Quick Sort,random,100000,239.982

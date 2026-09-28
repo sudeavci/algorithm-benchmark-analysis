@@ -1,0 +1,6 @@
+Algorithm,Theoretical Time,Practical Time,Memory Usage,In-place
+Quick Sort,O(n²),13.65 ms,In-place (O(log n)),✔
+Merge Sort,O(n log n),23.48 ms,Extra Memory (O(n)),✖
+Heap Sort,O(n log n),30.56 ms,In-place (O(1)),✔
+Shell Sort,~O(n^1.5),15.08 ms,In-place (O(1)),✔
+Radix Sort,O(n),16.03 ms,Extra Memory (O(n + k)),✖

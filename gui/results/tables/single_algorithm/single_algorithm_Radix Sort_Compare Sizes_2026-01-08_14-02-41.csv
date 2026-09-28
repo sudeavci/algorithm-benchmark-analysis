@@ -1,0 +1,4 @@
+Algorithm,Data Pattern,Data Size (N),Time (ms)
+Radix Sort,random,1000,1.155
+Radix Sort,random,10000,16.555
+Radix Sort,random,100000,308.827

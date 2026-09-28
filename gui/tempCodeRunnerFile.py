@@ -1,0 +1,1 @@
+def plot_from_csv(data_size, data_type, compare_all, selected_algorithm):
